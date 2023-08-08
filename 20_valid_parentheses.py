@@ -1,6 +1,10 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        while "()" in s or "[]" in s or "{}" in s:
-            s = s.replace("()", "").replace("[]", "").replace("{}", "")
+        x = "()"
+        y = "[]"
+        z = "{}"
+        while x in s or y in s or z in s:
+            s = s.replace(x, "").replace(y, "").replace(z, "")
         if len(s) == 0:
-            return True
+            s = 0
+        return s == 0
