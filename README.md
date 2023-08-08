@@ -9,7 +9,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
     [explanation](https://leetcode.com/problems/length-of-last-word/solutions/3591175/2-short-and-simple-python3-solutions/)
 
 
-2710. Remove Trailing Zeros From a String      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.py)      [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-easy-simple-python3-solutions-beat-over-90/)
+2710. Remove Trailing Zeros From a String      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.py)      [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-short-simple-python3-solutions/)
 
 
 ## Javascript
