@@ -1,5 +1,5 @@
 # leetcode_solutions
-All are accepted solutions I have written to [leetcode problems](https://leetcode.com/problemset/all/). Most beat 90% of submissions.
+All are accepted solutions I have written to [leetcode problems](https://leetcode.com/problemset/all/). Most of them beat 90% of submissions.
 
 ## Python
 ### solutions on Github and explanations on Leetcode
