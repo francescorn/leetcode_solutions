@@ -5,6 +5,9 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 ### solutions on Github and explanations on Leetcode
 9. Palindrome Number      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
+20. Valid Parentheses [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/)
+    [explanation](https://leetcode.com/problems/valid-parentheses/solutions/3591330/easy-python3-solution-using-replace-beats-90/)
+
 58. Length of Last Word  [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/58_Length_of_Last_Word.py)
     [explanation](https://leetcode.com/problems/length-of-last-word/solutions/3591175/2-short-and-simple-python3-solutions-beat-over-90/)
 
