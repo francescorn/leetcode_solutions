@@ -5,6 +5,10 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 ### solutions on Github and explanations on Leetcode
 9. Palindrome Number      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
+58. Length of Last Word  [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/58_Length_of_Last_Word.py)
+    [explanation](https://leetcode.com/problems/length-of-last-word/solutions/3591175/2-short-and-simple-python3-solutions/))
+
+
 2710. Remove Trailing Zeros From a String      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.py)      [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-easy-simple-python3-solutions-beat-over-90/)
 
 
