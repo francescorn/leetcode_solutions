@@ -1,5 +1,5 @@
 # leetcode_solutions
-All are accepted solutions I have written to [leetcode problems](https://leetcode.com/).
+All are accepted solutions I have written to [leetcode problems](https://leetcode.com/problemset/all/).
 
 ## Python
 ### solutions on Github and explanations on Leetcode
