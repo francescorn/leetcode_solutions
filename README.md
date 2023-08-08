@@ -3,7 +3,7 @@ All are accepted solutions I have written to [leetcode](https://leetcode.com/).
 
 ## Python
 ### solutions on Github and explanations on Leetcode
-9. Palindrome Number      [gtihub solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
+9. Palindrome Number      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
 2710. Remove Trailing Zeros From a String      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.py)      [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-easy-simple-python3-solutions-beat-over-90/)
 
