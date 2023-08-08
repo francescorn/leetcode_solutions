@@ -1,3 +1,4 @@
 class Solution:
     def removeTrailingZeros(self, num: str) -> str:
-        return num.rstrip("0")
+        num = num.rstrip("0")
+        return num
