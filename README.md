@@ -3,12 +3,12 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 ## Python
 ### solutions on Github and explanations on Leetcode
-9. Palindrome Number      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
+9 Palindrome Number      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
-20. Valid Parentheses [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/)
+20 Valid Parentheses [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/)
     [explanation](https://leetcode.com/problems/valid-parentheses/solutions/3591330/easy-python3-solution-using-replace-beats-90/)
 
-58. Length of Last Word  [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/58_Length_of_Last_Word.py)
+58 Length of Last Word  [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/58_Length_of_Last_Word.py)
     [explanation](https://leetcode.com/problems/length-of-last-word/solutions/3591175/2-short-and-simple-python3-solutions-beat-over-90/)
 
 
@@ -17,6 +17,6 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 ## Javascript
 ### solutions on Github and explanations on Leetcode
-2621. Sleep      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/2621_Sleep.js)      [explanation](https://leetcode.com/problems/sleep/solutions/3883019/two-easy-and-short-solutions-javascript-beats-over-90-return-instead-of-await/)
+2621 Sleep      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/2621_Sleep.js)      [explanation](https://leetcode.com/problems/sleep/solutions/3883019/two-easy-and-short-solutions-javascript-beats-over-90-return-instead-of-await/)
 
-2667. Create Hello World Function      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/2667_Create_Hello_World_Function.js)      [explanation](https://leetcode.com/problems/create-hello-world-function/solutions/3882950/two-easy-short-solutions-beat-over-90-using-return/)
+2667 Create Hello World Function      [github solution](https://github.com/francescorn/leetcode_solutions/blob/main/2667_Create_Hello_World_Function.js)      [explanation](https://leetcode.com/problems/create-hello-world-function/solutions/3882950/two-easy-short-solutions-beat-over-90-using-return/)
