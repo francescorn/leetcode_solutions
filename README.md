@@ -1,7 +1,7 @@
 # leetcode_solutions
 All are accepted solutions I have written to [leetcode](https://leetcode.com/).
 
-# links to solution explanations on leetcode:
+# links to my solution explanations:
 ## Python solutions
 [9](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
