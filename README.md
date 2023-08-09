@@ -1,8 +1,8 @@
-# leetcode_solutions
+# Leetcode Solutions
 All are accepted solutions I have written to [leetcode problems](https://leetcode.com/problemset/all/). Most of them beat 90% of submissions.
 
 ## Python
-### solutions on Github and explanations on Leetcode
+### Solutions on Github and Explanations on Leetcode
 9 Palindrome Number      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      and [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
 20 Valid Parentheses [solution](https://github.com/francescorn/leetcode_solutions/blob/main/)
@@ -23,7 +23,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 
 ## Javascript
-### solutions on Github and explanations on Leetcode
+### Solutions on Github and Explanations on Leetcode
 9 Palindrome Number [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.js)  and  [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
 2621 Sleep      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2621_Sleep.js) and     [explanation](https://leetcode.com/problems/sleep/solutions/3883019/two-easy-and-short-solutions-javascript-beats-over-90-return-instead-of-await/)
