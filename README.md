@@ -14,7 +14,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py)
 
-28 Find the Index of the First Occurence in a String [solution](https://github.com/francescorn/leetcode_solutions/blob/main/28_Find_the_Index_of_the_First_Occurrence_in_a_String.py) 
+28 Find the Index of the First Occurence in a String [solution](https://github.com/francescorn/leetcode_solutions/blob/main/28_Find_the_Index_of_the_First_Occurrence_in_a_String.py) and [explanation](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/post-solution/)
 
 35 Search Insert Position [solution](https://github.com/francescorn/leetcode_solutions/blob/main/35_Search_Insert_Position.py)
 
