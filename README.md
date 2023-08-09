@@ -10,9 +10,14 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py)
 
+28 Find the Index of the First Occurence in a String [solution](https://github.com/francescorn/leetcode_solutions/blob/main/28_Find_the_Index_of_the_First_Occurence_in_a_String.py)
+
+35 Search Insert Position [solution](https://github.com/francescorn/leetcode_solutions/blob/main/35_Search_Insert_Position.py)
+
 58 Length of Last Word  [solution](https://github.com/francescorn/leetcode_solutions/blob/main/58_Length_of_Last_Word.py)
    and [explanation](https://leetcode.com/problems/length-of-last-word/solutions/3591175/2-short-and-simple-python3-solutions-beat-over-90/)
 
+217 Contains Duplicate [solution](https://github.com/francescorn/leetcode_solutions/blob/main/217_contains_duplicate.py)
 
 2710 Remove Trailing Zeros From a String      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.py)   and   [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-short-simple-python3-solutions/)
 
