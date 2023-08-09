@@ -8,11 +8,13 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 20 Valid Parentheses [solution](https://github.com/francescorn/leetcode_solutions/blob/main/)
     and [explanation](https://leetcode.com/problems/valid-parentheses/solutions/3591330/easy-python3-solution-using-replace-beats-90/)
 
+26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py)
+
 58 Length of Last Word  [solution](https://github.com/francescorn/leetcode_solutions/blob/main/58_Length_of_Last_Word.py)
    and [explanation](https://leetcode.com/problems/length-of-last-word/solutions/3591175/2-short-and-simple-python3-solutions-beat-over-90/)
 
 
-2710. Remove Trailing Zeros From a String      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.py)   and   [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-short-simple-python3-solutions/)
+2710 Remove Trailing Zeros From a String      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.py)   and   [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-short-simple-python3-solutions/)
 
 
 ## Javascript
