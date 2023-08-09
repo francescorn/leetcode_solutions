@@ -3,6 +3,10 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 ## Python
 ### Solutions on Github and Explanations on Leetcode
+1 Two Sum [solution](https://github.com/francescorn/leetcode_solutions/blob/main/1_two_sum.py)
+
+4 Median of Two Sorted Arrays [solution](https://github.com/francescorn/leetcode_solutions/blob/main/4_Median_of_Two_Sorted_Arrays) 
+
 9 Palindrome Number      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      and [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
 20 Valid Parentheses [solution](https://github.com/francescorn/leetcode_solutions/blob/main/)
