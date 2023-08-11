@@ -16,7 +16,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 28 Find the Index of the First Occurence in a String [solution](https://github.com/francescorn/leetcode_solutions/blob/main/28_Find_the_Index_of_the_First_Occurrence_in_a_String.py) and [explanation](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/post-solution/)
 
-35 Search Insert Position [solution](https://github.com/francescorn/leetcode_solutions/blob/main/35_Search_Insert_Position.py)    [explanation](https://leetcode.com/problems/search-insert-position/solutions/3895742/easy-simple-python3-beats-over-90-solution/)
+35 Search Insert Position [solution](https://github.com/francescorn/leetcode_solutions/blob/main/35_Search_Insert_Position.py)   and [explanation](https://leetcode.com/problems/search-insert-position/solutions/3895742/easy-simple-python3-beats-over-90-solution/)
 
 58 Length of Last Word  [solution](https://github.com/francescorn/leetcode_solutions/blob/main/58_Length_of_Last_Word.py)
    and [explanation](https://leetcode.com/problems/length-of-last-word/solutions/3591175/2-short-and-simple-python3-solutions-beat-over-90/)
