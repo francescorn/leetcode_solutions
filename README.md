@@ -36,6 +36,8 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 ### Solutions on Github and Explanations on Leetcode
 9 Palindrome Number [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.js)  and  [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
+26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.js)
+
 2619 Array Prototype Last [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2619_Array_Prototype_Last.js)
 
 2620 Counter [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2620_Counter.js)
