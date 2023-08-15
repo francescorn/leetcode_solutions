@@ -1,11 +1,10 @@
 /**
-
  * @param {number[]} nums
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-    var uniqueNums = [...new Set(nums)];
-    nums.length = 0;
+    const uniqueNums = [...new Set(nums)];
+    nums.splice([0, -1]);
     nums.push(...uniqueNums);
-    return nums.length
-};
+    return nums.length;
+}
