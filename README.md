@@ -13,7 +13,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 13 Roman to Integer [solution](https://github.com/francescorn/leetcode_solutions/blob/main/13_Roman_To_Integer.py)
 
-17 Letter Combinations of a Phone Number [solution](https://github.com/francescorn/leetcode_solutions/blob/main/17_Letter_Combinations_Of_A_Phone_Number.py)
+17 Letter Combinations of a Phone Number [solution](https://github.com/francescorn/leetcode_solutions/blob/main/17_Letter_Combinations_Of_A_Phone_Number.py) and [explanation](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/3919257/python3-solution-beats-over-99/)
 
 20 Valid Parentheses [solution](https://github.com/francescorn/leetcode_solutions/blob/main/20_valid_parentheses.py)
     and [explanation](https://leetcode.com/problems/valid-parentheses/solutions/3591330/easy-python3-solution-using-replace-beats-90/)
