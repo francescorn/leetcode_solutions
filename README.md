@@ -14,7 +14,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 20 Valid Parentheses [solution](https://github.com/francescorn/leetcode_solutions/blob/main/20_valid_parentheses.py)
     and [explanation](https://leetcode.com/problems/valid-parentheses/solutions/3591330/easy-python3-solution-using-replace-beats-90/)
 
-26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py)
+26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.py)    [explanation](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3918850/4-easy-simple-python3-javascript-solutions-no-math-beat-over-90/)
 
 28 Find the Index of the First Occurence in a String [solution](https://github.com/francescorn/leetcode_solutions/blob/main/28_Find_the_Index_of_the_First_Occurrence_in_a_String.py) and [explanation](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/post-solution/)
 
@@ -36,7 +36,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 ### Solutions on Github and Explanations on Leetcode
 9 Palindrome Number [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.js)  and  [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
-26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.js)
+26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.js)    [explanation](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3918850/4-easy-simple-python3-javascript-solutions-no-math-beat-over-90/)
 
 2619 Array Prototype Last [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2619_Array_Prototype_Last.js)
 
