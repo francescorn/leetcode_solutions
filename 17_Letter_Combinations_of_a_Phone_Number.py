@@ -16,6 +16,6 @@ class Solution:
         list_1 =[]
         for chars in itertools.product(*letters):
             list_1.append("".join(chars))
-        if not digits:
+        if not letters:
             return []
         return list_1
