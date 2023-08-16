@@ -7,7 +7,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 4 Median of Two Sorted Arrays [solution](https://github.com/francescorn/leetcode_solutions/blob/main/4_Median_of_Two_Sorted_Arrays.py)
 
-7 Reverse Integer [solution](https://github.com/francescorn/leetcode_solutions/blob/main/7_reverse_integer.py)
+7 Reverse Integer [solution](https://github.com/francescorn/leetcode_solutions/blob/main/7_reverse_integer.py) and [explanation](https://leetcode.com/problems/reverse-integer/solutions/3919025/python3-solution-beats-over-90/)
 
 9 Palindrome Number      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      and [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
