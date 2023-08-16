@@ -48,4 +48,6 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 2621 Sleep      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2621_Sleep.js) and     [explanation](https://leetcode.com/problems/sleep/solutions/3883019/two-easy-and-short-solutions-javascript-beats-over-90-return-instead-of-await/)
 
+2710 Remove Trailing Zeros From a String      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.js)   and   [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-short-simple-python3-solutions/)
+
 2667 Create Hello World Function      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2667_Create_Hello_World_Function.js)    and  [explanation](https://leetcode.com/problems/create-hello-world-function/solutions/3882950/two-easy-short-solutions-beat-over-90-using-return/)
