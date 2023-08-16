@@ -11,7 +11,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 9 Palindrome Number      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.py)      and [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
-13 Roman to Integer [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_Roman_to_Integer.py)
+13 Roman to Integer [solution](https://github.com/francescorn/leetcode_solutions/blob/main/13_Roman_to_Integer.py)
 
 20 Valid Parentheses [solution](https://github.com/francescorn/leetcode_solutions/blob/main/20_valid_parentheses.py)
     and [explanation](https://leetcode.com/problems/valid-parentheses/solutions/3591330/easy-python3-solution-using-replace-beats-90/)
