@@ -4,9 +4,9 @@ class Solution:
         result = 0
         prev = 0
         for c in s:
-            current = roman_numerals[c]
-            result += current
-            if current > prev:
+            curr = roman_numerals[c]
+            result += curr
+            if curr > prev:
                 result -= 2 * prev
-            prev = current
+            prev = curr
         return result
