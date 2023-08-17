@@ -44,7 +44,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 2619 Array Prototype Last [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2619_Array_Prototype_Last.js)
 
-2620 Counter [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2620_Counter.js)
+2620 Counter [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2620_Counter.js) and [explanation](https://leetcode.com/problems/counter/solutions/3924366/easy-simple-javascript-solution-beats-over-93/)
 
 2621 Sleep      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2621_Sleep.js) and     [explanation](https://leetcode.com/problems/sleep/solutions/3883019/two-easy-and-short-solutions-javascript-beats-over-90-return-instead-of-await/)
 
