@@ -42,7 +42,7 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.js)  and  [explanation](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3918850/4-easy-simple-python3-javascript-solutions-no-math-beat-over-90/)
 
-2619 Array Prototype Last [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2619_Array_Prototype_Last.js)
+2619 Array Prototype Last [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2619_Array_Prototype_Last.js) and [explanation](https://leetcode.com/problems/array-prototype-last/solutions/3924384/easy-simple-javascript-solution-beats-over-95/)
 
 2620 Counter [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2620_Counter.js) and [explanation](https://leetcode.com/problems/counter/solutions/3924366/easy-simple-javascript-solution-beats-over-93/)
 
