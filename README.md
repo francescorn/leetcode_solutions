@@ -56,4 +56,4 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 ## C++
 ### Solution on Github and Explanations on Leetcode
-
+1 Two Sum [solution](https://github.com/francescorn/leetcode_solutions/blob/main/1_two_sum.cpp)
