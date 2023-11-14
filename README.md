@@ -29,6 +29,8 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 58 Length of Last Word  [solution](https://github.com/francescorn/leetcode_solutions/blob/main/58_Length_of_Last_Word.py)
    and [explanation](https://leetcode.com/problems/length-of-last-word/solutions/3591175/2-short-and-simple-python3-solutions-beat-over-90/)
 
+70 Climbing Stairs [solution](https://github.com/francescorn/leetcode_solutions/blob/main/70_Climbing_Stairs.py)
+
 141 Linked List Cycle [solution](https://github.com/francescorn/leetcode_solutions/blob/main/141_Linked_List_Cycle.py)
 
 217 Contains Duplicate [solution](https://github.com/francescorn/leetcode_solutions/blob/main/217_contains_duplicate.py)
