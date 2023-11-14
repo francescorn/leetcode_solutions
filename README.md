@@ -1,5 +1,5 @@
 # Leetcode Solutions and Explanations
-All are accepted solutions I have written to [leetcode problems](https://leetcode.com/problemset/all/). Most of them beat over 90% of submissions in either runtime, memory, or both. I attached a link to explanations about my intuition and my approach, along with the runtime and memory on Github. My best solution is posted on Github and my other solutions are in the explanation link. My philosophy in writing solutions is to write a simple solution if possible rather than an overly complicated one.
+All are accepted solutions I have written to [leetcode problems](https://leetcode.com/problemset/all/). Most of them beat over 90% of submissions in either runtime, memory, or both. I attached a link to explanations about my intuition and my approach, along with the runtime and memory on Github. My best solution is posted on Github and my other solutions are in the explanation link. My philosophy in writing solutions is to write a simple solution if possible rather than a complicated one.
 
 ## Python
 ### Solution on Github and Explanations on Leetcode
