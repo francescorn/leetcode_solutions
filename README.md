@@ -35,6 +35,8 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 217 Contains Duplicate [solution](https://github.com/francescorn/leetcode_solutions/blob/main/217_contains_duplicate.py)
 
+231 Power of Two [solution](https://github.com/francescorn/leetcode_solutions/blob/main/231_Power_Of_Two.py)
+
 2710 Remove Trailing Zeros From a String      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.py)   and   [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-short-simple-python3-solutions/)
 
 
