@@ -2,7 +2,6 @@
 All are accepted solutions I have written to [leetcode problems](https://leetcode.com/problemset/all/). Most of them beat over 90% of submissions in either runtime, memory, or both. I have attached a link to explanations about my intuition and my approach, along with the runtime and memory on Github. My best solution is posted on Github and my other solutions are in the explanation link. My philosophy in writing solutions is to write the simplest solution if possible rather than a complicated solution.
 
 ## Python
-### Solution on Github and Explanations on Leetcode
 1 Two Sum [solution](https://github.com/francescorn/leetcode_solutions/blob/main/1_two_sum.py)    and [explanation](https://leetcode.com/problems/two-sum/solutions/3884855/easy-simple-python3-solution-beats-over-90/)
 
 4 Median of Two Sorted Arrays [solution](https://github.com/francescorn/leetcode_solutions/blob/main/4_Median_of_Two_Sorted_Arrays.py)
@@ -41,7 +40,6 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 
 
 ## Javascript
-### Solution on Github and Explanations on Leetcode
 9 Palindrome Number [solution](https://github.com/francescorn/leetcode_solutions/blob/main/9_palindrome_number.js)  and  [explanation](https://leetcode.com/problems/palindrome-number/solutions/3591298/easy-simple-python3-solution-beats-95/)
 
 26 Remove Duplicates from Sorted Array [solution](https://github.com/francescorn/leetcode_solutions/blob/main/26_Remove_Duplicates_from_Sorted_Array.js)  and  [explanation](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3918850/4-easy-simple-python3-javascript-solutions-no-math-beat-over-90/)
@@ -61,5 +59,4 @@ All are accepted solutions I have written to [leetcode problems](https://leetcod
 2710 Remove Trailing Zeros From a String      [solution](https://github.com/francescorn/leetcode_solutions/blob/main/2710_Remove_Trailing_Zeros_From_a_String.js)   and   [explanation](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3593378/two-short-simple-python3-solutions/)
 
 ## C++
-### Solution on Github and Explanations on Leetcode
 1 Two Sum [solution](https://github.com/francescorn/leetcode_solutions/blob/main/1_two_sum.cpp)
