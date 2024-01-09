@@ -1,5 +1,5 @@
 # Leetcode Solutions and Explanations
-All are accepted solutions I have written to [leetcode problems](https://leetcode.com/problemset/all/). Most of them beat over 90% of submissions in either runtime, memory, or both. I have attached a link to explanations about my intuition and my approach, along with the runtime and memory on Github. My best solution is posted on Github and my other solutions are in the explanation link. My philosophy in writing solutions is to write the simplest solution if possible rather than a complicated solution.
+All are accepted solutions I have written to leetcode problems. Most of them beat over 90% of submissions in either runtime, memory, or both of them. I have attached a link to explanations about my intuition and my approach, along with the runtime and memory on Github. My best solution is posted on Github and my other solutions are in the explanation link.
 
 ## Python
 1 Two Sum [solution](https://github.com/francescorn/leetcode_solutions/blob/main/1_two_sum.py)    and [explanation](https://leetcode.com/problems/two-sum/solutions/3884855/easy-simple-python3-solution-beats-over-90/)
